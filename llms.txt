@@ -1,0 +1,13 @@
+# Claude Code Skills
+
+> A task-based directory of 40 skill collections and specialist skills for Claude Code users.
+
+The README compares development, mobile, databases, cloud, security, research, documents and marketing workflows. Each entry links to its primary repository and installation instructions. Collections packaged as plugins and tools with bundled skills are identified.
+
+## Contents
+
+- [Full directory and comparisons](README.md): choose a collection for a concrete task, compare related options and follow upstream setup.
+- [Contributions](CONTRIBUTING.md): suggest a task-specific addition or correction with primary sources.
+- [License](LICENSE): MIT for the original directory text; linked projects retain their own licenses.
+
+Maintained by [Gabe Bouslov](https://gabebouslov.com). Source links checked 26 October 2026.
