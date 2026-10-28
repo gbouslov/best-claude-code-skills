@@ -1,13 +1,18 @@
-# Claude Code Skills
+# Best Claude Code Skills
 
-> A task-based directory of 40 skill collections and specialist skills for Claude Code users.
+> A task-based directory of 42 skill collections and specialist skills for Claude Code users, compared by job, stack and setup.
 
-The README compares development, mobile, databases, cloud, security, research, documents and marketing workflows. Each entry links to its primary repository and installation instructions. Collections packaged as plugins and tools with bundled skills are identified.
+The README covers Claude Code skills for web development, web and UI design, app development and developer workflows, alongside databases, cloud, security, research, documents and marketing. Each selected entry links to a primary repository and setup instructions. It compares close alternatives and distinguishes standalone skills from plugin bundles and tools with skills.
 
 ## Contents
 
 - [Full directory and comparisons](README.md): choose a collection for a concrete task, compare related options and follow upstream setup.
 - [Contributions](CONTRIBUTING.md): suggest a task-specific addition or correction with primary sources.
 - [License](LICENSE): MIT for the original directory text; linked projects retain their own licenses.
+- [Best Claude Code Plugins](https://github.com/gbouslov/best-claude-code-plugins): companion directory for packages combining skills with agents, hooks or service connectors.
 
-Maintained by [Gabe Bouslov](https://gabebouslov.com). Source links checked 26 October 2026.
+## Installation and questions
+
+The README explains official sources and community marketplaces, project and global install locations, listing available and installed skills, and discovery or listing-budget troubleshooting. Ten visible FAQ answers cover what skills are, choosing one, plugins versus skills, GitHub installation, global installation, listing skills, storage, automatic invocation, cost and Codex compatibility.
+
+Maintained by [Gabe Bouslov](https://gabebouslov.com). Upstream scope and setup reviewed 28 October 2026. Repository metadata has a separate checked date in the README.

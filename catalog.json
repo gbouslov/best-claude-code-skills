@@ -1,0 +1,260 @@
+{
+  "repo": "gbouslov/best-claude-code-skills",
+  "title": "Best Claude Code Skills (2026)",
+  "publication_status": "published",
+  "entries": [
+    {
+      "id": "anthropic-skills",
+      "name": "Anthropic Skills",
+      "url": "https://github.com/anthropics/skills",
+      "repo": "anthropics/skills"
+    },
+    {
+      "id": "vercel-agent-skills",
+      "name": "Vercel Agent Skills",
+      "url": "https://github.com/vercel-labs/agent-skills",
+      "repo": "vercel-labs/agent-skills"
+    },
+    {
+      "id": "matt-pocock-skills",
+      "name": "Matt Pocock Skills",
+      "url": "https://github.com/mattpocock/skills",
+      "repo": "mattpocock/skills"
+    },
+    {
+      "id": "superpowers",
+      "name": "Superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "repo": "obra/superpowers"
+    },
+    {
+      "id": "expo-skills",
+      "name": "Expo Skills",
+      "url": "https://github.com/expo/skills",
+      "repo": "expo/skills"
+    },
+    {
+      "id": "trail-of-bits-skills",
+      "name": "Trail of Bits Skills",
+      "url": "https://github.com/trailofbits/skills",
+      "repo": "trailofbits/skills"
+    },
+    {
+      "id": "obsidian-skills",
+      "name": "Obsidian Skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "repo": "kepano/obsidian-skills"
+    },
+    {
+      "id": "marketing-skills",
+      "name": "Marketing Skills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "repo": "coreyhaines31/marketingskills"
+    },
+    {
+      "id": "wordpress-agent-skills",
+      "name": "WordPress Agent Skills",
+      "url": "https://github.com/WordPress/agent-skills",
+      "repo": "WordPress/agent-skills"
+    },
+    {
+      "id": "sanity-agent-toolkit",
+      "name": "Sanity Agent Toolkit",
+      "url": "https://github.com/sanity-io/agent-toolkit",
+      "repo": "sanity-io/agent-toolkit"
+    },
+    {
+      "id": "stripe-ai",
+      "name": "Stripe AI",
+      "url": "https://github.com/stripe/ai",
+      "repo": "stripe/ai"
+    },
+    {
+      "id": "resend-skills",
+      "name": "Resend Skills",
+      "url": "https://github.com/resend/resend-skills",
+      "repo": "resend/resend-skills"
+    },
+    {
+      "id": "callstack-agent-skills",
+      "name": "Callstack Agent Skills",
+      "url": "https://github.com/callstackincubator/agent-skills",
+      "repo": "callstackincubator/agent-skills"
+    },
+    {
+      "id": "react-native-community-skills",
+      "name": "React Native Community Skills",
+      "url": "https://github.com/react-native-community/skills",
+      "repo": "react-native-community/skills"
+    },
+    {
+      "id": "flutter-agent-plugins",
+      "name": "Flutter Agent Plugins",
+      "url": "https://github.com/flutter/agent-plugins",
+      "repo": "flutter/agent-plugins"
+    },
+    {
+      "id": "dart-skills",
+      "name": "Dart Skills",
+      "url": "https://github.com/dart-lang/skills",
+      "repo": "dart-lang/skills"
+    },
+    {
+      "id": "ios-simulator-skill",
+      "name": "iOS Simulator Skill",
+      "url": "https://github.com/conorluddy/ios-simulator-skill",
+      "repo": "conorluddy/ios-simulator-skill"
+    },
+    {
+      "id": "supabase-agent-skills",
+      "name": "Supabase Agent Skills",
+      "url": "https://github.com/supabase/agent-skills",
+      "repo": "supabase/agent-skills"
+    },
+    {
+      "id": "prisma-skills",
+      "name": "Prisma Skills",
+      "url": "https://github.com/prisma/skills",
+      "repo": "prisma/skills"
+    },
+    {
+      "id": "neon-agent-skills",
+      "name": "Neon Agent Skills",
+      "url": "https://github.com/neondatabase/agent-skills",
+      "repo": "neondatabase/agent-skills"
+    },
+    {
+      "id": "clickhouse-agent-skills",
+      "name": "ClickHouse Agent Skills",
+      "url": "https://github.com/ClickHouse/agent-skills",
+      "repo": "ClickHouse/agent-skills"
+    },
+    {
+      "id": "hugging-face-skills",
+      "name": "Hugging Face Skills",
+      "url": "https://github.com/huggingface/skills",
+      "repo": "huggingface/skills"
+    },
+    {
+      "id": "apify-agent-skills",
+      "name": "Apify Agent Skills",
+      "url": "https://github.com/apify/agent-skills",
+      "repo": "apify/agent-skills"
+    },
+    {
+      "id": "firecrawl-skills",
+      "name": "Firecrawl Skills",
+      "url": "https://github.com/firecrawl/skills",
+      "repo": "firecrawl/skills"
+    },
+    {
+      "id": "cloudflare-skills",
+      "name": "Cloudflare Skills",
+      "url": "https://github.com/cloudflare/skills",
+      "repo": "cloudflare/skills"
+    },
+    {
+      "id": "microsoft-skills",
+      "name": "Microsoft Skills",
+      "url": "https://github.com/microsoft/skills",
+      "repo": "microsoft/skills"
+    },
+    {
+      "id": "hashicorp-agent-skills",
+      "name": "HashiCorp Agent Skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "repo": "hashicorp/agent-skills"
+    },
+    {
+      "id": "sentry-skills",
+      "name": "Sentry Skills",
+      "url": "https://github.com/getsentry/skills",
+      "repo": "getsentry/skills"
+    },
+    {
+      "id": "playwright-skill",
+      "name": "Playwright Skill",
+      "url": "https://github.com/lackeyjb/playwright-skill",
+      "repo": "lackeyjb/playwright-skill"
+    },
+    {
+      "id": "ffuf-skill",
+      "name": "FFUF Skill",
+      "url": "https://github.com/jthack/ffuf_claude_skill",
+      "repo": "jthack/ffuf_claude_skill"
+    },
+    {
+      "id": "vercel-agent-browser",
+      "name": "Vercel Agent Browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "repo": "vercel-labs/agent-browser"
+    },
+    {
+      "id": "ecc-everything-claude-code",
+      "name": "ECC (Everything Claude Code)",
+      "url": "https://github.com/affaan-m/ECC",
+      "repo": "affaan-m/ECC"
+    },
+    {
+      "id": "wshobson-agents",
+      "name": "wshobson Agents",
+      "url": "https://github.com/wshobson/agents",
+      "repo": "wshobson/agents"
+    },
+    {
+      "id": "planning-with-files",
+      "name": "Planning with Files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "repo": "OthmanAdi/planning-with-files"
+    },
+    {
+      "id": "claude-codex-skills",
+      "name": "Claude-Codex Skills",
+      "url": "https://github.com/levnikolaevich/claude-code-skills",
+      "repo": "levnikolaevich/claude-code-skills"
+    },
+    {
+      "id": "scientific-agent-skills",
+      "name": "Scientific Agent Skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "repo": "K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "id": "remotion-skills",
+      "name": "Remotion Skills",
+      "url": "https://github.com/remotion-dev/skills",
+      "repo": "remotion-dev/skills"
+    },
+    {
+      "id": "anthropic-knowledge-work-plugins",
+      "name": "Anthropic Knowledge Work Plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "repo": "anthropics/knowledge-work-plugins"
+    },
+    {
+      "id": "n8n-skills",
+      "name": "n8n Skills",
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "repo": "czlonkowski/n8n-skills"
+    },
+    {
+      "id": "claude-skills-by-alirezarezvani",
+      "name": "Claude Skills by alirezarezvani",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "repo": "alirezarezvani/claude-skills"
+    },
+    {
+      "id": "roost",
+      "name": "Roost",
+      "url": "https://github.com/Beakpoint-Insights/roost",
+      "repo": "Beakpoint-Insights/roost"
+    },
+    {
+      "id": "academic-writing-skills",
+      "name": "Academic Writing Skills",
+      "url": "https://github.com/WenyuChiou/academic-writing-skills",
+      "repo": "WenyuChiou/academic-writing-skills"
+    }
+  ],
+  "selection_format": "linked-first-cell"
+}
