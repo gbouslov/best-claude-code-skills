@@ -18,7 +18,7 @@ Looking for an awesome Claude Code skills list or a GitHub skills directory? Thi
 | Add a consistent development and testing process | [Superpowers](https://github.com/obra/superpowers) | Connects requirements, planning, implementation and verification into a workflow. |
 | Ship an Expo app | [Expo Skills](https://github.com/expo/skills) | Expo Router, SDK upgrades and EAS delivery fit the actual stack. |
 | Review code for security issues | [Trail of Bits Skills](https://github.com/trailofbits/skills) | Workflows for audit context, differential review and specialised security analysis. |
-| Work with an Obsidian vault | [Obsidian Skills](https://github.com/kepano/obsidian-skills) | Covers the vault's Markdown, Bases and Canvas formats. |
+| Work with an Obsidian vault | [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills) | Covers the vault's Markdown, Bases and Canvas formats. |
 | Improve copy, conversion or marketing experiments | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | A focused collection of marketing jobs with product context supplied by you. |
 
 Browse: [web development](#claude-code-skills-for-web-development) · [web and UI design](#claude-code-skills-for-web-design-and-ui-design) · [app development](#claude-code-skills-for-app-development) · [data and ML](#data-databases-and-machine-learning) · [cloud](#cloud-and-infrastructure) · [security and browsers](#security-debugging-and-browser-testing) · [developers](#claude-code-skills-for-developers) · [documents and research](#documents-research-and-creative-work) · [marketing and automation](#marketing-business-and-automation) · [install and list skills](#install-and-list-claude-code-skills).
@@ -104,7 +104,7 @@ Try these task briefs with your own files. Follow the linked collection's setup 
 |---|---|---|
 | [Anthropic Skills](https://github.com/anthropics/skills) | Document creation/editing plus examples and a template for writing a skill. | The document skills are source-available; check their individual licenses. [Setup](https://github.com/anthropics/skills/blob/main/README.md). |
 | [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Bioinformatics, chemistry, imaging, statistics and scientific communication workflows. | Scientific packages and data access vary by discipline. [Setup](https://github.com/K-Dense-AI/scientific-agent-skills/blob/main/README.md). |
-| [Obsidian Skills](https://github.com/kepano/obsidian-skills) | Markdown, Bases, JSON Canvas, CLI and Defuddle workflows for vault work. | Obsidian file formats and tooling. [Setup](https://github.com/kepano/obsidian-skills/blob/main/README.md). |
+| [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills) | Markdown, Bases, JSON Canvas, CLI and Defuddle workflows for vault work. | Obsidian file formats and tooling. [Setup](https://github.com/obsidianmd/obsidian-skills/blob/main/README.md). |
 | [Remotion Skills](https://github.com/remotion-dev/skills) | Programmatic video creation, rendering, captions, multimedia and upgrade workflows. | Remotion. [Setup](https://github.com/remotion-dev/skills/blob/main/README.md). |
 | [Academic Writing Skills](https://github.com/WenyuChiou/academic-writing-skills) | Plan or revise a research manuscript and review whether its argument matches the supplied sources. Choose it for paper writing rather than scientific computation. | Two skills in a plugin: writing and paper review. Supply the active manuscript, sources and venue requirements. [Setup](https://github.com/WenyuChiou/academic-writing-skills#install-and-use). |
 
@@ -234,7 +234,7 @@ Repository metadata checked **2026-11-11 (UTC)**. Stars, latest default-branch c
 | [Superpowers](https://github.com/obra/superpowers) | 315,825 | [2026-11-03](https://github.com/obra/superpowers/commit/22f0b463e7a5e579904dd6211a520321035526f7) | No |
 | [Expo Skills](https://github.com/expo/skills) | 4,110 | [2026-11-01](https://github.com/expo/skills/commit/a9e5bd3fa00b4e61f632e43f85da73aee1942582) | No |
 | [Trail of Bits Skills](https://github.com/trailofbits/skills) | 8,118 | [2026-11-06](https://github.com/trailofbits/skills/commit/e4dd0bb5b15535f7c5a0834187dffba6ac37e4ff) | No |
-| [Obsidian Skills](https://github.com/kepano/obsidian-skills) | 51,594 | [2026-09-15](https://github.com/kepano/obsidian-skills/commit/3ccff5338ea700537839b21900aa5358a0402c98) | No |
+| [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills) | 51,594 | [2026-09-15](https://github.com/obsidianmd/obsidian-skills/commit/3ccff5338ea700537839b21900aa5358a0402c98) | No |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 59,610 | [2026-11-11](https://github.com/coreyhaines31/marketingskills/commit/3e729622e3de0c82abdb906190d91f9018045872) | No |
 | [WordPress Agent Skills](https://github.com/WordPress/agent-skills) | 2,350 | [2026-11-05](https://github.com/WordPress/agent-skills/commit/7374e6f1c913b3b02b25465d266d9c0e0a04fc96) | No |
 | [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) | 197 | [2026-10-27](https://github.com/sanity-io/agent-toolkit/commit/3ed3a143f8d3413faa7790ac0b2274fd3a8a6320) | No |
