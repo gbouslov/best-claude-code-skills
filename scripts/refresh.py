@@ -71,11 +71,20 @@ def gh_json(endpoint):
 def fetch_metadata(repo, fetch=gh_json):
     info = fetch('repos/' + repo)
     commits = fetch('repos/' + repo + '/commits?per_page=1')
-    if (not isinstance(info, dict) or info.get('private') is not False
-            or info.get('full_name', '').lower() != repo.lower()
-            or type(info.get('stargazers_count')) is not int
-            or info['stargazers_count'] < 0 or type(info.get('archived')) is not bool):
-        raise ValueError('Incomplete public repository metadata: ' + repo)
+    if not isinstance(info, dict):
+        raise ValueError('Incomplete public repository metadata: ' + repo + ' (not an object)')
+    problems = []
+    if info.get('private') is not False:
+        problems.append('private is ' + repr(info.get('private')))
+    if not isinstance(info.get('full_name'), str) or info['full_name'].lower() != repo.lower():
+        # A renamed or transferred repository answers under its new name.
+        problems.append('full_name is ' + repr(info.get('full_name')))
+    if type(info.get('stargazers_count')) is not int or info['stargazers_count'] < 0:
+        problems.append('stargazers_count is ' + type(info.get('stargazers_count')).__name__)
+    if type(info.get('archived')) is not bool:
+        problems.append('archived is ' + type(info.get('archived')).__name__)
+    if problems:
+        raise ValueError('Incomplete public repository metadata: ' + repo + ' (' + '; '.join(problems) + ')')
     if not isinstance(commits, list) or not commits:
         raise ValueError('Missing actual commit: ' + repo)
     sha = commits[0].get('sha', '')
