@@ -224,52 +224,52 @@ Source review dates above describe editorial checks of upstream scope and setup.
 
 ## Repository activity
 
-Repository metadata checked **2026-11-19 (UTC)**. Stars, latest default-branch commit and archive status describe each source repository, including shared repositories; they do not measure an individual plugin or skill release. Selection and installation guidance are reviewed separately.
+Repository metadata checked **2026-11-20 (UTC)**. Stars, latest default-branch commit and archive status describe each source repository, including shared repositories; they do not measure an individual plugin or skill release. Selection and installation guidance are reviewed separately.
 
 | Selected resource | Repository stars | Latest repository commit (UTC) | Archived |
 |---|---:|---|---|
-| [Anthropic Skills](https://github.com/anthropics/skills) | 197,293 | [2026-11-16](https://github.com/anthropics/skills/commit/e4bb5d960d87126ff3b3a8af1a104b7db67560ba) | No |
-| [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) | 34,491 | [2026-10-27](https://github.com/vercel-labs/agent-skills/commit/1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62) | No |
-| [Matt Pocock Skills](https://github.com/mattpocock/skills) | 327,570 | [2026-11-12](https://github.com/mattpocock/skills/commit/5863806dd4e15c63174bee4e7515a4256792ecfa) | No |
-| [Superpowers](https://github.com/obra/superpowers) | 321,429 | [2026-11-03](https://github.com/obra/superpowers/commit/22f0b463e7a5e579904dd6211a520321035526f7) | No |
-| [Expo Skills](https://github.com/expo/skills) | 4,189 | [2026-11-15](https://github.com/expo/skills/commit/dfdebcc6c4c1bf7a9471cefd6b6f39c7ba6c884d) | No |
-| [Trail of Bits Skills](https://github.com/trailofbits/skills) | 8,286 | [2026-11-12](https://github.com/trailofbits/skills/commit/149d7b21f4067765b82e67029730b42d228ef4b4) | No |
-| [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills) | 53,185 | [2026-11-17](https://github.com/obsidianmd/obsidian-skills/commit/1c3f6df5683588e39b12462a75d1d0fcf550f955) | No |
-| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 61,294 | [2026-11-18](https://github.com/coreyhaines31/marketingskills/commit/73573e94a06a39965978b3fa1f9c1eace8cebc7c) | No |
-| [WordPress Agent Skills](https://github.com/WordPress/agent-skills) | 2,386 | [2026-11-05](https://github.com/WordPress/agent-skills/commit/7374e6f1c913b3b02b25465d266d9c0e0a04fc96) | No |
-| [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) | 200 | [2026-11-19](https://github.com/sanity-io/agent-toolkit/commit/0a0b214d1066b699cd10ed16d9a398366b6ebd1d) | No |
-| [Stripe AI](https://github.com/stripe/ai) | 2,073 | [2026-11-19](https://github.com/stripe/ai/commit/801ec2174acd581f71f99cf8df5383063824a1bc) | No |
-| [Resend Skills](https://github.com/resend/resend-skills) | 214 | [2026-11-17](https://github.com/resend/resend-skills/commit/0b003d3c4c7dcd675d0bd30949aa7c95c2b91d1f) | No |
-| [Callstack Agent Skills](https://github.com/callstackincubator/agent-skills) | 1,713 | [2026-10-08](https://github.com/callstackincubator/agent-skills/commit/59e9d17446a248b21d86f078fcd0bd2d36db1ca4) | No |
+| [Anthropic Skills](https://github.com/anthropics/skills) | 197,763 | [2026-11-16](https://github.com/anthropics/skills/commit/e4bb5d960d87126ff3b3a8af1a104b7db67560ba) | No |
+| [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) | 34,559 | [2026-10-27](https://github.com/vercel-labs/agent-skills/commit/1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62) | No |
+| [Matt Pocock Skills](https://github.com/mattpocock/skills) | 328,259 | [2026-11-19](https://github.com/mattpocock/skills/commit/abeeaf95660ba9e8b7c753eb38f441ca707a8823) | No |
+| [Superpowers](https://github.com/obra/superpowers) | 322,216 | [2026-11-03](https://github.com/obra/superpowers/commit/22f0b463e7a5e579904dd6211a520321035526f7) | No |
+| [Expo Skills](https://github.com/expo/skills) | 4,194 | [2026-11-19](https://github.com/expo/skills/commit/88d9bd79f3fa8452a778fbac65bae162c0b32ce4) | No |
+| [Trail of Bits Skills](https://github.com/trailofbits/skills) | 8,307 | [2026-11-12](https://github.com/trailofbits/skills/commit/149d7b21f4067765b82e67029730b42d228ef4b4) | No |
+| [Obsidian Skills](https://github.com/obsidianmd/obsidian-skills) | 53,259 | [2026-11-19](https://github.com/obsidianmd/obsidian-skills/commit/462a27fa456e43a68bd645fef457217326bfd369) | No |
+| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 61,549 | [2026-11-20](https://github.com/coreyhaines31/marketingskills/commit/5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1) | No |
+| [WordPress Agent Skills](https://github.com/WordPress/agent-skills) | 2,388 | [2026-11-05](https://github.com/WordPress/agent-skills/commit/7374e6f1c913b3b02b25465d266d9c0e0a04fc96) | No |
+| [Sanity Agent Toolkit](https://github.com/sanity-io/agent-toolkit) | 201 | [2026-11-19](https://github.com/sanity-io/agent-toolkit/commit/828641ff3bae87327ec73844d9c72f38e591842e) | No |
+| [Stripe AI](https://github.com/stripe/ai) | 2,074 | [2026-11-20](https://github.com/stripe/ai/commit/119bc4a8de4eb4370db1f5838275bc9e7a0d8e4a) | No |
+| [Resend Skills](https://github.com/resend/resend-skills) | 215 | [2026-11-19](https://github.com/resend/resend-skills/commit/063246e39987faebc2608f968ca13a02d994a0d4) | No |
+| [Callstack Agent Skills](https://github.com/callstackincubator/agent-skills) | 1,714 | [2026-10-08](https://github.com/callstackincubator/agent-skills/commit/59e9d17446a248b21d86f078fcd0bd2d36db1ca4) | No |
 | [React Native Community Skills](https://github.com/react-native-community/skills) | 28 | [2026-08-05](https://github.com/react-native-community/skills/commit/1fb0e0848fc7f4bbf42fec490338613cbc6f6b08) | No |
-| [Flutter Agent Plugins](https://github.com/flutter/agent-plugins) | 3,194 | [2026-11-18](https://github.com/flutter/agent-plugins/commit/ff6d472ee66dbed566c4500edee460c94fde0a02) | No |
+| [Flutter Agent Plugins](https://github.com/flutter/agent-plugins) | 3,198 | [2026-11-18](https://github.com/flutter/agent-plugins/commit/ff6d472ee66dbed566c4500edee460c94fde0a02) | No |
 | [Dart Skills](https://github.com/dart-lang/skills) | 560 | [2026-11-16](https://github.com/dart-lang/skills/commit/f84b16872b5d186f4e877511b49b93c204a1c4ef) | No |
-| [iOS Simulator Skill](https://github.com/conorluddy/ios-simulator-skill) | 1,330 | [2026-11-08](https://github.com/conorluddy/ios-simulator-skill/commit/86fb9ba90a438bd2ee7ab640165bd77da396d941) | No |
-| [Supabase Agent Skills](https://github.com/supabase/agent-skills) | 3,104 | [2026-10-02](https://github.com/supabase/agent-skills/commit/c9be0e931b7930f7d02126d04774d904c381e7d7) | No |
+| [iOS Simulator Skill](https://github.com/conorluddy/ios-simulator-skill) | 1,331 | [2026-11-08](https://github.com/conorluddy/ios-simulator-skill/commit/86fb9ba90a438bd2ee7ab640165bd77da396d941) | No |
+| [Supabase Agent Skills](https://github.com/supabase/agent-skills) | 3,108 | [2026-10-02](https://github.com/supabase/agent-skills/commit/c9be0e931b7930f7d02126d04774d904c381e7d7) | No |
 | [Prisma Skills](https://github.com/prisma/skills) | 80 | [2026-11-09](https://github.com/prisma/skills/commit/a6f192959cf43b08aa330fe1ffca090267215812) | No |
-| [Neon Agent Skills](https://github.com/neondatabase/agent-skills) | 116 | [2026-11-18](https://github.com/neondatabase/agent-skills/commit/d3601d9e1f9398b96a1ee25047bafba5f04199eb) | No |
-| [ClickHouse Agent Skills](https://github.com/ClickHouse/agent-skills) | 571 | [2026-11-17](https://github.com/ClickHouse/agent-skills/commit/19b32426959fe67b692aa1ed944e2259c0a82a9e) | No |
-| [Hugging Face Skills](https://github.com/huggingface/skills) | 11,363 | [2026-11-17](https://github.com/huggingface/skills/commit/5291c2b9365e06b175dc04817610c778623f4836) | No |
-| [Apify Agent Skills](https://github.com/apify/agent-skills) | 2,508 | [2026-11-18](https://github.com/apify/agent-skills/commit/410c3bf12cc186a04542edb5e2879845565b9606) | No |
+| [Neon Agent Skills](https://github.com/neondatabase/agent-skills) | 117 | [2026-11-18](https://github.com/neondatabase/agent-skills/commit/d3601d9e1f9398b96a1ee25047bafba5f04199eb) | No |
+| [ClickHouse Agent Skills](https://github.com/ClickHouse/agent-skills) | 572 | [2026-11-19](https://github.com/ClickHouse/agent-skills/commit/1008fd74c0912e2f4819d52324af8a2fac2b74c1) | No |
+| [Hugging Face Skills](https://github.com/huggingface/skills) | 11,365 | [2026-11-17](https://github.com/huggingface/skills/commit/5291c2b9365e06b175dc04817610c778623f4836) | No |
+| [Apify Agent Skills](https://github.com/apify/agent-skills) | 2,511 | [2026-11-18](https://github.com/apify/agent-skills/commit/410c3bf12cc186a04542edb5e2879845565b9606) | No |
 | [Firecrawl Skills](https://github.com/firecrawl/skills) | 159 | [2026-11-11](https://github.com/firecrawl/skills/commit/1d4b0728d0f448cafef2eb8370c907fde7cb6f42) | No |
-| [Cloudflare Skills](https://github.com/cloudflare/skills) | 3,398 | [2026-11-17](https://github.com/cloudflare/skills/commit/5108325ecceabc899c761e07aa617b09c02445ee) | No |
-| [Microsoft Skills](https://github.com/microsoft/skills) | 3,224 | [2026-11-17](https://github.com/microsoft/skills/commit/b35d2c60fac796bfd2cfd14ad3f550c73e92d9bb) | No |
-| [HashiCorp Agent Skills](https://github.com/hashicorp/agent-skills) | 933 | [2026-11-04](https://github.com/hashicorp/agent-skills/commit/5e30fa5c867ba6777c37e4206babfd08049c396f) | No |
-| [Sentry Skills](https://github.com/getsentry/skills) | 1,183 | [2026-11-14](https://github.com/getsentry/skills/commit/a582c51ee29d0f35e6ac321340796f77d43da733) | No |
-| [Playwright Skill](https://github.com/lackeyjb/playwright-skill) | 3,307 | [2026-08-14](https://github.com/lackeyjb/playwright-skill/commit/dd47a6a023e249eb1b36e9e943eab89d0900865d) | No |
+| [Cloudflare Skills](https://github.com/cloudflare/skills) | 3,407 | [2026-11-17](https://github.com/cloudflare/skills/commit/5108325ecceabc899c761e07aa617b09c02445ee) | No |
+| [Microsoft Skills](https://github.com/microsoft/skills) | 3,228 | [2026-11-19](https://github.com/microsoft/skills/commit/0d60658e34d07c05a5cd0514d3e64ccd653e8539) | No |
+| [HashiCorp Agent Skills](https://github.com/hashicorp/agent-skills) | 934 | [2026-11-04](https://github.com/hashicorp/agent-skills/commit/5e30fa5c867ba6777c37e4206babfd08049c396f) | No |
+| [Sentry Skills](https://github.com/getsentry/skills) | 1,187 | [2026-11-14](https://github.com/getsentry/skills/commit/a582c51ee29d0f35e6ac321340796f77d43da733) | No |
+| [Playwright Skill](https://github.com/lackeyjb/playwright-skill) | 3,306 | [2026-08-14](https://github.com/lackeyjb/playwright-skill/commit/dd47a6a023e249eb1b36e9e943eab89d0900865d) | No |
 | [FFUF Skill](https://github.com/jthack/ffuf_claude_skill) | 216 | [2025-10-16](https://github.com/jthack/ffuf_claude_skill/commit/50fd4af4d8bd60cfc48fd84eda1720fbd718857d) | No |
-| [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser) | 52,680 | [2026-11-19](https://github.com/vercel-labs/agent-browser/commit/25b5d76f2843bce7be6c59a56d3461b162ad4ac9) | No |
-| [ECC (Everything Claude Code)](https://github.com/affaan-m/ECC) | 306,661 | [2026-11-17](https://github.com/affaan-m/ECC/commit/3f14a103a8694e51c1df9a806217a6d0b5f7a6f7) | No |
-| [wshobson Agents](https://github.com/wshobson/agents) | 42,670 | [2026-11-18](https://github.com/wshobson/agents/commit/42203085cfc5736204bf0f6d436dff7e1da0bf3f) | No |
-| [Planning with Files](https://github.com/OthmanAdi/planning-with-files) | 28,133 | [2026-11-11](https://github.com/OthmanAdi/planning-with-files/commit/51bf62def62d1cb317d37936929b4ef97cf862c3) | No |
-| [Claude-Codex Skills](https://github.com/levnikolaevich/claude-code-skills) | 598 | [2026-11-11](https://github.com/levnikolaevich/claude-code-skills/commit/809845957a79a8e470d97a794ab7f19fa4f246b7) | No |
-| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 57,739 | [2026-11-16](https://github.com/K-Dense-AI/scientific-agent-skills/commit/ec59a29a03d5c40f73ab40878df04860bc00e876) | No |
-| [Remotion Skills](https://github.com/remotion-dev/skills) | 7,515 | [2026-11-18](https://github.com/remotion-dev/skills/commit/6f55706d1069e512430582ad86e4e57dc07afe1b) | No |
-| [Anthropic Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) | 36,537 | [2026-11-18](https://github.com/anthropics/knowledge-work-plugins/commit/b4c9a4e1de4b42868b74a6fe30ac766f64e43a3e) | No |
-| [n8n Skills](https://github.com/czlonkowski/n8n-skills) | 6,674 | [2026-11-18](https://github.com/czlonkowski/n8n-skills/commit/ecdeca6f760b56bb1b11c0a7c961f11b69cb87d5) | No |
-| [Claude Skills by alirezarezvani](https://github.com/alirezarezvani/claude-skills) | 30,083 | [2026-11-17](https://github.com/alirezarezvani/claude-skills/commit/f8593c4941210a621a6629ce1da9e07897976d5f) | No |
+| [Vercel Agent Browser](https://github.com/vercel-labs/agent-browser) | 52,913 | [2026-11-20](https://github.com/vercel-labs/agent-browser/commit/4b3ffa75deb59b7564c6aafbe60dc0b60b98c15a) | No |
+| [ECC (Everything Claude Code)](https://github.com/affaan-m/ECC) | 307,363 | [2026-11-20](https://github.com/affaan-m/ECC/commit/4adeee6732a12d1540f49a4d50a38ce8c97f9a53) | No |
+| [wshobson Agents](https://github.com/wshobson/agents) | 42,713 | [2026-11-18](https://github.com/wshobson/agents/commit/42203085cfc5736204bf0f6d436dff7e1da0bf3f) | No |
+| [Planning with Files](https://github.com/OthmanAdi/planning-with-files) | 28,145 | [2026-11-11](https://github.com/OthmanAdi/planning-with-files/commit/51bf62def62d1cb317d37936929b4ef97cf862c3) | No |
+| [Claude-Codex Skills](https://github.com/levnikolaevich/claude-code-skills) | 597 | [2026-11-11](https://github.com/levnikolaevich/claude-code-skills/commit/809845957a79a8e470d97a794ab7f19fa4f246b7) | No |
+| [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 57,868 | [2026-11-16](https://github.com/K-Dense-AI/scientific-agent-skills/commit/ec59a29a03d5c40f73ab40878df04860bc00e876) | No |
+| [Remotion Skills](https://github.com/remotion-dev/skills) | 7,585 | [2026-11-18](https://github.com/remotion-dev/skills/commit/6f55706d1069e512430582ad86e4e57dc07afe1b) | No |
+| [Anthropic Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins) | 36,584 | [2026-11-19](https://github.com/anthropics/knowledge-work-plugins/commit/0e0fcacddcc892eb92a1b7873ff9d68159c47571) | No |
+| [n8n Skills](https://github.com/czlonkowski/n8n-skills) | 6,683 | [2026-11-18](https://github.com/czlonkowski/n8n-skills/commit/ecdeca6f760b56bb1b11c0a7c961f11b69cb87d5) | No |
+| [Claude Skills by alirezarezvani](https://github.com/alirezarezvani/claude-skills) | 30,155 | [2026-11-17](https://github.com/alirezarezvani/claude-skills/commit/f8593c4941210a621a6629ce1da9e07897976d5f) | No |
 | [Roost](https://github.com/Beakpoint-Insights/roost) | 33 | [2026-11-17](https://github.com/Beakpoint-Insights/roost/commit/9567828d5c3bb7bcbcc0e9738052be52ca36b4ae) | No |
-| [Academic Writing Skills](https://github.com/WenyuChiou/academic-writing-skills) | 472 | [2026-11-12](https://github.com/WenyuChiou/academic-writing-skills/commit/70e6d20921160fcf541bc4137ec4f6ca2875a069) | No |
+| [Academic Writing Skills](https://github.com/WenyuChiou/academic-writing-skills) | 475 | [2026-11-12](https://github.com/WenyuChiou/academic-writing-skills/commit/70e6d20921160fcf541bc4137ec4f6ca2875a069) | No |
 
 <!-- freshness:end -->
 
